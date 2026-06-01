@@ -1,6 +1,6 @@
 # Al Faiaj Anon
 
-Systems Programmer specializing in low-level architecture, operating systems, and high-performance simulation engines.
+Systems Programmer focused software architecture, operating system and currently exploring cybersecurity.
 
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
